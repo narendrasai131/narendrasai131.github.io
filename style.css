@@ -191,9 +191,8 @@ section .title::after{
 }  */
 .home{
     display:flex;
-    background: url("images/123j2.png") no-repeat center;
-  
-   height: 100vh;
+    background: url("images/banner.jpg") no-repeat center;
+     height: 100vh;
     color: #e3dada;
     min-height: 300px;
     background-size: cover;
